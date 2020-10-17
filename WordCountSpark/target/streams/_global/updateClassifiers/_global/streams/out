@@ -1,0 +1,4 @@
+[debug] not up to date. inChanged = true, force = false
+[debug] Updating ProjectRef(uri("file:/Users/pedropinto/Documents/Georgia%20Tech/MSA/Classes/Fall%202020/CS%206220/Homeworks/big_data_with_spark/WordCountSpark/"), "wordcountspark")...
+[debug] Done updating ProjectRef(uri("file:/Users/pedropinto/Documents/Georgia%20Tech/MSA/Classes/Fall%202020/CS%206220/Homeworks/big_data_with_spark/WordCountSpark/"), "wordcountspark")
+[warn] There may be incompatibilities among your library dependencies; run 'evicted' to see detailed eviction warnings.
