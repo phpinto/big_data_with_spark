@@ -139,6 +139,17 @@ To check if Spark was properly installed, try opening the Spark CLI by running t
 
 ![alt text](images/spark-shell.png)
 
+To start running Spark, you should go to the sbin folder inside apache-spark installation folder and execute the *start-all.sh* shell script:
+
+```shell
+    cd /usr/local/Cellar/apache-spark/3.0.1/libexec/sbin/
+    ./start-all.sh
+```
+
+- **Spark Master UI Screenshot:**
+
+![alt text](images/spark-master-ui.png)
+
 ### 3. Data:
 
 A number of different text files were used was input data for this homework. They are all saved in the input folder.
