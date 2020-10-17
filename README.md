@@ -12,7 +12,7 @@ Installed software required to run the programs in this repository:
 - Java 14.0.2
 - JDK 14.0.2
 - Hadoop 3.3.0
-- Scala 2.13.3
+- Scala 2.12.1
 - Spark 3.0.1
 - Git 2.28.0 (optional)
 
