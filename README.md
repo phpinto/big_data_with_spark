@@ -114,15 +114,15 @@ If you running Linux, you can follow the offical Apache Hadoop documentation: ht
 
 Since my computer was running macOS, I followed these steps to install Apache Spark on my local machine (using Homebrew):
 
-Install xcode-select:
+- Install xcode-select:
 ```shell
     xcode-select --install
 ```
-Install Scala:
+- Install Scala:
 ```shell
     brew install scala
 ```
-Install Apache Spark:
+- Install Apache Spark:
 ```shell
     brew install apache-spark
 ```
@@ -135,7 +135,7 @@ To check if Spark was properly installed, try opening the Spark CLI by running t
     spark-shell
 ```
 
-- You should see a similar result in your terminal window:
+- You should see a similar  message in your terminal window:
 
 ![alt text](images/spark-shell.png)
 
